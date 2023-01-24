@@ -1,9 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Main from '../components/Main.svelte';
+import Analytics from '../components/Analytics.svelte';
 ---
 
 <Layout title="the best">
+	<Analytics client:load />
 	<Main/>
 </Layout>
 
