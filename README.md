@@ -9,10 +9,8 @@
 
 **just the best**
 
-# Intro
+# About
 
 Here lies the source for [mozzarella.pizza](https://mozzarella.pizza), made for and by **pizza** lovers.
-All love is aprecitated.
 
-*stay mozzarella,*
-*stay pizza*
+All love is aprecitated.

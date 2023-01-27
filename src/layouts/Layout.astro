@@ -12,6 +12,11 @@ const { title } = Astro.props;
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="preload" as="font" type="font/ttf"  href="/fonts/Arvo/Arvo-Regular.ttf" crossorigin="anonymous">
+		<link rel="preload" as="font" type="font/ttf"  href="/fonts/Noto_Sans/NotoSans-Regular.ttf" crossorigin="anonymous">
+		<link rel="preload" as="font" type="font/ttf"  href="/fonts/Noto_Sans/NotoSans-Bold.ttf" crossorigin="anonymous">
+		<link rel="preload" as="font" type="font/ttf"  href="/fonts/Noto_Sans/NotoSans-LightItalic.ttf" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="/styles/fonts.css">
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
@@ -19,14 +24,18 @@ const { title } = Astro.props;
 		<slot />
 	</body>
 </html>
-<style is:global>
-	@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,700;1,300;1,400&display=swap');	
 
-	h1 {
+<style is:global>
+	h1, h2, h3, h4, h5, h6 {
 		font-family: 'Arvo', serif;
 	}
-
 	html {
+		font-family: 'Noto Sans', sans-serif;
+	}
+	.font-title {
+		font-family: 'Arvo', serif;
+	}
+	.font-body {
 		font-family: 'Noto Sans', sans-serif;
 	}
 </style>
