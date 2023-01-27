@@ -14,7 +14,7 @@ const flavors: Array<Flavor> = [
         name: "moz·za·rel·la",
         phonetic: "/ˌmɒtsəˈrɛlə/",
         description: {
-            text: "A mild, semisoft white Italian cheese, often used in Italian cooking as a melted topping, especially on pizzas.",
+            text: "Mild, semisoft white Italian cheese, often used in Italian cooking as a melted topping, especially on pizzas.",
             reference: "https://en.wikipedia.org/wiki/Mozzarella"
         }
     },
@@ -30,7 +30,7 @@ const flavors: Array<Flavor> = [
         name: "mar·ghe·ri·ta",
         phonetic: "/ˌmärɡəˈrēdə/",
         description: {
-            text: "A typical Neapolitan pizza topped with tomatoes, cheese, and traditionally also basil.",
+            text: "Yypical Neapolitan pizza topped with tomatoes, cheese, and traditionally also basil.",
             reference: "https://en.wikipedia.org/wiki/Pizza_Margherita"
         }
     },
@@ -62,7 +62,7 @@ const flavors: Array<Flavor> = [
         name: "quat·tro for·mag·gi",
         phonetic: "/quàt·tro/ /forˈmad.d͡ʒi/",
         description: {
-            text: "A combination of four kinds of cheese, usually melted together.",
+            text: "Combination of four kinds of cheese, usually melted together.",
             reference: "https://en.wikipedia.org/wiki/Pizza_quattro_formaggi"
         }
     },
@@ -70,7 +70,7 @@ const flavors: Array<Flavor> = [
         name: "car·bo·na·ra",
         phonetic: "/ˌkärbəˈnärə/",
         description: {
-            text: "An Italian pasta dish from Rome made with eggs, hard cheese, cured pork and black pepper.",
+            text: "Italian pasta dish from Rome made with eggs, hard cheese, cured pork and black pepper.",
             reference: "https://en.wikipedia.org/wiki/Carbonara"
         }
     }
