@@ -21,3 +21,6 @@ pnpm-debug.log*
 
 # ide
 .vscode/
+
+# deployment
+.vercel/
