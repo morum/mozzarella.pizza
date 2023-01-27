@@ -11,6 +11,8 @@
 
 # About
 
-Here lies the source for [mozzarella.pizza](https://mozzarella.pizza), made for and by **pizza** lovers.
+Here lies the source for [mozzarella.pizza](https://mozzarella.pizza), and [@mozzarelling twitter automation](https://twitter.com/mozzarelling).
+
+Made for and by **pizza** lovers.
 
 All love is aprecitated.
