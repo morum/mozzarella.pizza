@@ -1,0 +1,12 @@
+{
+  "name": "@mozzarella/pizza.scrapper",
+  "version": "1.0.0",
+  "description": "Background worker for collecting DailyPizza",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

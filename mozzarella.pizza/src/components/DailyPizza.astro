@@ -1,0 +1,13 @@
+---
+    import Definition from "./Definition.svelte"
+    import type { Flavor } from "../data/flavours";
+    import { API_URL } from "../config/env";
+    
+    const daily: Flavor = await (await fetch(`${API_URL}/daily.json`)).json()
+---
+
+<h1 class="sm:text-8xl text-6xl w-full text-center mb-3">{daily.name}</h1>
+<h3 class="sm:text-2xl text-xl font-light italic w-full text-center text-gray-400 font-body">{daily.phonetic}</h3>
+<div class="my-6">
+    <Definition description={daily.description.text} ref={daily.description.reference}/>
+</div>
