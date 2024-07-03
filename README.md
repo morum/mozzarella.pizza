@@ -3,7 +3,7 @@
 
 */ˌmɒtsəˈrɛlə/*
 
-  **Mozzarella**  sis a southern Italian  **cheese**  traditionally made from Italian buffalo's milk by the pasta filata method.  [[ref]](https://en.wikipedia.org/wiki/Mozzarella)
+  **Mozzarella**  is a southern Italian  **cheese**  traditionally made from Italian buffalo's milk by the pasta filata method.  [[ref]](https://en.wikipedia.org/wiki/Mozzarella)
 
 **Pizza**  is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with  **cheese**,  and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven.  [[ref]](https://en.wikipedia.org/wiki/Pizza)
 

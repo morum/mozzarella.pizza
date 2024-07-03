@@ -30,7 +30,7 @@ const flavors: Array<Flavor> = [
         name: "mar·ghe·ri·ta",
         phonetic: "/ˌmärɡəˈrēdə/",
         description: {
-            text: "Yypical Neapolitan pizza topped with tomatoes, cheese, and traditionally also basil.",
+            text: "Typical Neapolitan pizza topped with tomatoes, cheese, and traditionally also basil.",
             reference: "https://en.wikipedia.org/wiki/Pizza_Margherita"
         }
     },

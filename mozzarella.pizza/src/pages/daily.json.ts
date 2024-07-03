@@ -8,7 +8,7 @@ function getIndexBasedOnDay(min: number, max: number) {
     const hash = crypto.createHash('sha256')
         .update(dateSum.toString())
         .digest('hex')
-        console.log(hash[0])
+
     const firstDigit = parseInt(hash[0], 16) % max
 
     min = Math.ceil(min); 
